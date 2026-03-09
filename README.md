@@ -1,2 +1,6 @@
 # calculator
-this is my calculator using html css and js
+My first working calculator using html and css
+<br>
+<h1>
+  programmer - Asad
+</h1>
